@@ -1,0 +1,34 @@
+body {
+    font-family: arial;
+    background-image: url(./japao.jpg);
+    text-align: center;
+    background-size: cover;
+}
+
+h1,
+h2 {
+    color: rgb(245, 113, 113);
+}
+
+.tabela {
+    background-color: rgb(243, 243, 243);
+
+}
+
+td {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 5px;
+    color: rgb(6, 6, 6);
+
+}
+.tabela2{
+    width: 40%;
+    height: 20%;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    border: 6px solid white;
+    
+}
+td{ 
+    border: 2px solid whi;
+}
